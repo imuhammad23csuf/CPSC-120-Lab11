@@ -1,7 +1,7 @@
-// Doina Bein
-// dbein@fullerton.edu
-// @dbein
-// Partners: @kevinwortman
+// Ibraheem Muhammad
+// imuhammad23@csu.fullerton.edu
+// @imuhammad23csuf
+// Partners: @erusselbrown
 //
 // Object-oriented Pizza class.
 //
